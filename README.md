@@ -1,4 +1,4 @@
-# Mini-Compiler
+# Ben_Simple_Compiler
 A Compiler for subset of C To MIPS.
 
 You will need lex, Yacc and SPIM emulator( to test MIPS code).
